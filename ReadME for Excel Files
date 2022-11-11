@@ -1,0 +1,12 @@
+This file serves as explanations to any Excel analysis/dashboards files posted under my Github.
+
+The initial project Bike Buyers was done to assess bikes being bought in different states by different age groups.
+The slicers can be used to select different regions and varying statuses such as home owners, age bracket or education.
+
+The second project (posted as an image to avoid any issue with the original site) is a finanacial dashbaord created just with a bit more complexity.
+
+The third project is with a data set off Kaggle called the coffee prices historical chart data (https://www.kaggle.com/datasets/williamriveraramos/coffee-prices-historical).
+Here, I created a simple dashboard that tracked and showed the changes in coffee prices form 1973 onwards in a monthly or yearly format with simple bar graphs
+and line charts.
+
+Stay tuned for more.
